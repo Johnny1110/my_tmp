@@ -10,7 +10,8 @@
 
 Total Point 160 (basic: 130, bouns: 30)
 
-100 up: passed.
+80: passed.
+100 up: great.
 
 <br>
 
