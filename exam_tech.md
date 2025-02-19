@@ -1,8 +1,14 @@
-# Senior Java Engineer Exam
+# Senior Java Engineer Exam (Total Point 160)
+
+
 
 <br>
 
 ---
+
+<br>
+
+100 up: passed.
 
 <br>
 
