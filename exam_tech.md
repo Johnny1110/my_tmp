@@ -168,7 +168,7 @@ SELECT * FROM orders WHERE product_id = 456 ORDER BY order_date DESC LIMIT 10;
 SELECT COUNT(*) FROM orders WHERE status = 'Shipped';
 ```
 
-* Please the that company design the sql table index.
+* Please help me design the sql table index.
 
 * Are there any problem with Query-3 ? Why and how to improve?  (Hint: Covering Index)
 
