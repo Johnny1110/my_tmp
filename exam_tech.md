@@ -6,7 +6,7 @@
 
 <br>
 
-## 1 (EASY)
+## 1 (EASY) 10 point
 
 Check out the following java code, and answer the question:
 
@@ -48,7 +48,7 @@ public class ReferenceExample {
 <br>
 <br>
 
-## 2 (EASY)
+## 2 (EASY) 10 point
 
 Check out the following java code, and answer the question:
 
@@ -108,7 +108,7 @@ public class Example1 {
 
 <br>
 
-## 3 (MEDUIM)
+## 3 (MEDUIM) 20 point
 
 Check out the following java code, and answer the question:
 
@@ -144,7 +144,7 @@ public class IntegerLockExample {
 <br>
 <br>
 
-## 4 (MEDIUM)
+## 4 (MEDIUM) 20 point
 
 The company often executes the following queries:
 
@@ -166,14 +166,14 @@ SELECT COUNT(*) FROM orders WHERE status = 'Shipped';
 <br>
 <br>
 
-## 5 (MEDIUM~HARD)
+## 5 (MEDIUM) 20 point
 
 What is SQL transaction isolation ? Plase list all the sql isolation type and explain what they do.
 
 
 <br>
 
-## 6 (MEDIUM)
+## 6 (MEDIUM) 20 point
 
 Scenario:
 
@@ -234,14 +234,14 @@ Tasks:
 
 3. Fix the code so that the transaction is correctly rolled back.
 
-4. Bonus question (HARD): how does `@Transaction` work? how does it keep that sql session?
+4. Bonus question (HARD): how does `@Transaction` work? how does it keep that sql session? 30 point
 
 
 <br>
 <br>
 
 
-## 7 (MEDUIM-HARD)
+## 7 (MEDUIM-HARD) 30 point
 
 Please draw The B+ Tree Struacure.
 
