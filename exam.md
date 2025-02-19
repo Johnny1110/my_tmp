@@ -243,5 +243,5 @@ Tasks:
 
 ## 7 (MEDUIM-HARD)
 
-Please draw a B+ Tree Struacure.
+Please draw The B+ Tree Struacure.
 
