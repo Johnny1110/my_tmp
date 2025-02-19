@@ -197,7 +197,7 @@ However, __the user record is still saved in the database!__
 public class UserService {
 
     @Autowired
-    private final UserRepository userRepository;
+    private UserRepository userRepository;
 
     // Entry point here 
     public void processUserRequest(Object request) {
